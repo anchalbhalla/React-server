@@ -1,7 +1,8 @@
 {
   "name": "pusher.js",
   "version": "1.0.0",
-  "description": "pusher",
+  "description": "pusher", 
+  "start": "node server.js",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
